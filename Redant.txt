@@ -1,0 +1,3 @@
+The language used is python 
+Colab researc version
+File extension ipynb
